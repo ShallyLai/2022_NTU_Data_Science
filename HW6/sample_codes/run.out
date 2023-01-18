@@ -1,0 +1,245 @@
+=> Preparing data...
+=> Building model...
+
+Epoch[1](500/704): 
+Train_loss: 0.7121 (1.4176)
+Train acc 79.688 (53.697)
+
+Validation_loss: 0.2316
+Validation acc 82.967
+Time for training Epoch[1]: 63.428s
+
+Epoch[2](500/704): 
+Train_loss: 0.4069 (0.4180)
+Train acc 85.938 (87.000)
+
+Validation_loss: 0.0792
+Validation acc 92.500
+Time for training Epoch[2]: 62.488s
+
+Epoch[3](500/704): 
+Train_loss: 0.2846 (0.2532)
+Train acc 92.188 (92.059)
+
+Validation_loss: 0.0508
+Validation acc 94.407
+Time for training Epoch[3]: 62.730s
+
+Epoch[4](500/704): 
+Train_loss: 0.1435 (0.1860)
+Train acc 96.875 (94.119)
+
+Validation_loss: 0.1087
+Validation acc 93.547
+Time for training Epoch[4]: 62.754s
+
+Epoch[5](500/704): 
+Train_loss: 0.0618 (0.1527)
+Train acc 98.438 (95.253)
+
+Validation_loss: 0.0355
+Validation acc 95.640
+Time for training Epoch[5]: 62.817s
+
+Epoch[6](500/704): 
+Train_loss: 0.0645 (0.1307)
+Train acc 98.438 (95.947)
+
+Validation_loss: 0.0102
+Validation acc 96.480
+Time for training Epoch[6]: 62.949s
+
+Epoch[7](500/704): 
+Train_loss: 0.0857 (0.1172)
+Train acc 96.875 (96.397)
+
+Validation_loss: 0.0077
+Validation acc 96.667
+Time for training Epoch[7]: 63.006s
+
+Epoch[8](500/704): 
+Train_loss: 0.0737 (0.1040)
+Train acc 96.875 (96.822)
+
+Validation_loss: 0.0039
+Validation acc 96.687
+Time for training Epoch[8]: 62.988s
+
+Epoch[9](500/704): 
+Train_loss: 0.1521 (0.0960)
+Train acc 95.312 (97.025)
+
+Validation_loss: 0.0029
+Validation acc 96.973
+Time for training Epoch[9]: 63.041s
+
+Epoch[10](500/704): 
+Train_loss: 0.1177 (0.0910)
+Train acc 96.875 (97.219)
+
+Validation_loss: 0.0027
+Validation acc 96.780
+Time for training Epoch[10]: 63.098s
+
+Epoch[11](500/704): 
+Train_loss: 0.0210 (0.0852)
+Train acc 100.000 (97.322)
+
+Validation_loss: 0.0126
+Validation acc 96.767
+Time for training Epoch[11]: 62.917s
+
+Epoch[12](500/704): 
+Train_loss: 0.2204 (0.0771)
+Train acc 93.750 (97.584)
+
+Validation_loss: 0.0042
+Validation acc 96.947
+Time for training Epoch[12]: 63.214s
+
+Epoch[13](500/704): 
+Train_loss: 0.0910 (0.0769)
+Train acc 96.875 (97.638)
+
+Validation_loss: 0.0107
+Validation acc 96.993
+Time for training Epoch[13]: 63.232s
+
+Epoch[14](500/704): 
+Train_loss: 0.0326 (0.0680)
+Train acc 98.438 (97.919)
+
+Validation_loss: 0.0064
+Validation acc 96.600
+Time for training Epoch[14]: 63.288s
+
+Epoch[15](500/704): 
+Train_loss: 0.0725 (0.0672)
+Train acc 98.438 (97.978)
+
+Validation_loss: 0.0025
+Validation acc 97.300
+Time for training Epoch[15]: 63.201s
+
+Epoch[16](500/704): 
+Train_loss: 0.0679 (0.0657)
+Train acc 96.875 (97.984)
+
+Validation_loss: 0.0036
+Validation acc 97.107
+Time for training Epoch[16]: 63.208s
+
+Epoch[17](500/704): 
+Train_loss: 0.0289 (0.0653)
+Train acc 100.000 (98.094)
+
+Validation_loss: 0.0028
+Validation acc 97.367
+Time for training Epoch[17]: 63.295s
+
+Epoch[18](500/704): 
+Train_loss: 0.0830 (0.0596)
+Train acc 96.875 (98.234)
+
+Validation_loss: 0.0064
+Validation acc 96.953
+Time for training Epoch[18]: 63.368s
+
+Epoch[19](500/704): 
+Train_loss: 0.0811 (0.0613)
+Train acc 93.750 (98.113)
+
+Validation_loss: 0.0079
+Validation acc 97.420
+Time for training Epoch[19]: 63.225s
+
+Epoch[20](500/704): 
+Train_loss: 0.0753 (0.0517)
+Train acc 96.875 (98.409)
+
+Validation_loss: 0.0029
+Validation acc 97.647
+Time for training Epoch[20]: 63.270s
+
+Epoch[21](500/704): 
+Train_loss: 0.0294 (0.0303)
+Train acc 98.438 (99.238)
+
+Validation_loss: 0.0010
+Validation acc 98.113
+Time for training Epoch[21]: 63.311s
+
+Epoch[22](500/704): 
+Train_loss: 0.0466 (0.0244)
+Train acc 98.438 (99.425)
+
+Validation_loss: 0.0011
+Validation acc 98.127
+Time for training Epoch[22]: 63.293s
+
+Epoch[23](500/704): 
+Train_loss: 0.0079 (0.0211)
+Train acc 100.000 (99.534)
+
+Validation_loss: 0.0013
+Validation acc 98.220
+Time for training Epoch[23]: 63.416s
+
+Epoch[24](500/704): 
+Train_loss: 0.0147 (0.0204)
+Train acc 100.000 (99.541)
+
+Validation_loss: 0.0012
+Validation acc 98.140
+Time for training Epoch[24]: 63.257s
+
+Epoch[25](500/704): 
+Train_loss: 0.0249 (0.0196)
+Train acc 98.438 (99.597)
+
+Validation_loss: 0.0009
+Validation acc 98.207
+Time for training Epoch[25]: 63.361s
+
+Epoch[26](500/704): 
+Train_loss: 0.0224 (0.0183)
+Train acc 98.438 (99.631)
+
+Validation_loss: 0.0011
+Validation acc 98.193
+Time for training Epoch[26]: 63.360s
+
+Epoch[27](500/704): 
+Train_loss: 0.0244 (0.0174)
+Train acc 98.438 (99.669)
+
+Validation_loss: 0.0010
+Validation acc 98.127
+Time for training Epoch[27]: 63.446s
+
+Epoch[28](500/704): 
+Train_loss: 0.0464 (0.0156)
+Train acc 98.438 (99.741)
+
+Validation_loss: 0.0012
+Validation acc 98.200
+Time for training Epoch[28]: 63.158s
+
+Epoch[29](500/704): 
+Train_loss: 0.0080 (0.0156)
+Train acc 100.000 (99.713)
+
+Validation_loss: 0.0009
+Validation acc 98.180
+Time for training Epoch[29]: 63.324s
+
+Epoch[30](500/704): 
+Train_loss: 0.0069 (0.0162)
+Train acc 100.000 (99.713)
+
+Validation_loss: 0.0009
+Validation acc 98.260
+Time for training Epoch[30]: 63.251s
+
+Best acc: 98.260
+
